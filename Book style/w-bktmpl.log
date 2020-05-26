@@ -1,0 +1,191 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.18)  25 MAY 2020 22:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/w-bktmpl.tex"
+(f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/w-bktmpl.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/WileySix.cls
+
+
+ Wiley Book Style, Design No.: SD 001C
+ and SD 004B
+ 
+ Written by Amy Hendrickson, TeXnology, Inc.
+ 
+ This version is dated Feb 16, 2011
+
+
+\phspace=\dimen134
+\SpaceAboveChapterNumber=\dimen135
+\savefootnotenumber=\count167
+\ftnum=\count168
+\saveftnum=\count169
+\c@chapapp=\count170
+\c@part=\count171
+\c@chapter=\count172
+\c@section=\count173
+\c@subsection=\count174
+\c@subsubsection=\count175
+\c@paragraph=\count176
+\c@subparagraph=\count177
+\c@figure=\count178
+\c@table=\count179
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\partskip=\skip49
+\tabandfigskip=\skip50
+\footnum=\count180
+\savefootnum=\count181
+\@indexfile=\write3
+\openout3 = `w-bktmpl.idx'.
+
+Writing index file w-bktmpl.idx
+\iletterskip=\skip51
+\timing=\count182
+\hourcount=\count183
+\oldtime=\count184
+\probcount=\count185
+\subprobcount=\count186
+\c@subproblem=\count187
+\c@subproblem=\count188
+\widthofcropmarks=\dimen136
+\raisetopcropmarks=\dimen137
+\raisebottomcropmarks=\dimen138
+\movecropmarksright=\dimen139
+\c@theorem=\count189
+\c@appfootnote=\count190
+\slugwidth=\dimen140
+\slugheight=\dimen141
+\slugdepth=\dimen142
+\c@exampnum=\count191
+\c@algo=\count192
+\c@algorithm=\count193
+\chapskip=\dimen143
+\chapheight=\dimen144
+\authorskip=\dimen145
+) (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/w-bookps.sty
+
+
+ Using PostScript Fonts
+
+ Wiley Monograph/Edited Book Style
+ Feb 16, 2012
+
+ 
+) (d:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (d:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+) (d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count194
+\l__pdf_internal_box=\box45
+) (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/w-bktmpl.aux)
+\openout1 = `w-bktmpl.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 89.
+ (d:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (d:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen148
+\scratchbox=\box46
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen149
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks17
+) (d:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (d:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) [1] [2]
+<wileylogo.pdf, id=9, 292.09125pt x 64.24pt>
+File: wileylogo.pdf Graphic file (type pdf)
+<use wileylogo.pdf>
+Package pdftex.def Info: wileylogo.pdf  used on input line 115.
+(pdftex.def)             Requested size: 122.85876pt x 27.0208pt.
+ [3{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/wileylogo.pdf>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 133.
+ (d:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+
+ []
+
+[4] [5
+
+] [6
+
+] (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/w-bktmpl.toc) [7] [8
+
+] (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/w-bktmpl.toc)
+\tf@toc=\write4
+\openout4 = `w-bktmpl.toc'.
+
+ [9] [10
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 261.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 261.
+ [1] [2
+
+]
+Chapter 1.
+[3] [4
+
+] (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/w-bktmpl.ind) (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/w-bktmpl.aux) ) 
+Here is how much of TeX's memory you used:
+ 1568 strings out of 480608
+ 22758 string characters out of 5907536
+ 266053 words of memory out of 5000000
+ 17464 multiletter control sequences out of 15000+600000
+ 570420 words of font info for 94 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,9n,25p,258b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Book style/w-bktmpl.pdf" (14 pages, 899146 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
