@@ -332,6 +332,12 @@ INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/xcharter/XCharter-BoldItalic-t
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
 OUTPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.thm
 INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux
 INPUT d:/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_uy5hgr.enc
@@ -342,10 +348,12 @@ INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-BoldItalic
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
