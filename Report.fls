@@ -1,9 +1,9 @@
-PWD f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report
+PWD f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report
 INPUT d:/texlive/2020/texmf.cnf
 INPUT d:/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT d:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.tex
-OUTPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.log
+INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.tex
+OUTPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.log
 INPUT d:/texlive/2020/texmf-dist/tex/latex/base/report.cls
 INPUT d:/texlive/2020/texmf-dist/tex/latex/base/report.cls
 INPUT d:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
@@ -40,8 +40,8 @@ INPUT d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/structure.tex
-INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/structure.tex
+INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/structure.tex
+INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/structure.tex
 INPUT d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
@@ -234,9 +234,9 @@ INPUT d:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 INPUT d:/texlive/2020/texmf-dist/tex/latex/xcharter/T1XCharter-TLF.fd
 INPUT d:/texlive/2020/texmf-dist/tex/latex/xcharter/T1XCharter-TLF.fd
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
-INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.aux
-INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.aux
-OUTPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.aux
+INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux
+INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux
+OUTPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux
 INPUT d:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT d:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT d:/texlive/2020/texmf-dist/tex/latex/ly1/ly1ptm.fd
@@ -279,7 +279,7 @@ INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/stmaryrd/stmary6.tfm
 INPUT d:/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT d:/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
-OUTPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.pdf
+OUTPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.pdf
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
 INPUT d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -329,8 +329,11 @@ INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/xcharter/XCharter-Bold-tlf-t1-
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/xcharter/XCharter-BoldItalic-tlf-t1.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/public/xcharter/XCharter-BoldItalic-tlf-t1.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/xcharter/XCharter-BoldItalic-tlf-t1--base.tfm
-OUTPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.thm
-INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.aux
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+OUTPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.thm
+INPUT f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux
 INPUT d:/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_uy5hgr.enc
 INPUT d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
@@ -338,6 +341,7 @@ INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb
+INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb

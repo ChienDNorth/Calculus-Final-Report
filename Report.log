@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.18)  26 MAY 2020 14:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.18)  2 JUN 2020 15:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.tex"
-(f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.tex
+**"f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.tex"
+(f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (d:/texlive/2020/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
@@ -163,7 +163,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \mathdisplay@stack=\toks37
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
-)) (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/structure.tex (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+)) (f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/structure.tex (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -969,7 +969,7 @@ File: T1XCharter-TLF.fd 2017/06/25 (autoinst) Font definitions for T1/XCharter-T
 )
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 45.
- (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.aux)
+ (f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux)
 \openout1 = `Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
@@ -1150,27 +1150,50 @@ Overfull \hbox (2.67537pt too wide) in paragraph at lines 388--388
 []
  []
 
-[5] [6]
+[5]
+Package textcomp Info: Symbol \textflorin not provided by
+(textcomp)             font family XCharter-TLF in TS1 encoding.
+(textcomp)             Default family used instead on input line 464.
+Package textcomp Info: Symbol \textflorin not provided by
+(textcomp)             font family XCharter-TLF in TS1 encoding.
+(textcomp)             Default family used instead on input line 475.
+Package textcomp Info: Symbol \textflorin not provided by
+(textcomp)             font family XCharter-TLF in TS1 encoding.
+(textcomp)             Default family used instead on input line 475.
+ [6] [7]
 Chapter 11.
+
+LaTeX Warning: Command \textflorin invalid in math mode on input line 498.
+
+Package textcomp Info: Symbol \textflorin not provided by
+(textcomp)             font family XCharter-TLF in TS1 encoding.
+(textcomp)             Default family used instead on input line 498.
+
+LaTeX Warning: Command \textflorin invalid in math mode on input line 498.
+
+
+LaTeX Warning: Command \textflorin invalid in math mode on input line 498.
+
+Missing character: There is no Œ in font cmr10!
 \tf@thm=\write4
 \openout4 = `Report.thm'.
 
-[7
+[8
 
-] (f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.aux) ) 
+] (f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux) ) 
 Here is how much of TeX's memory you used:
- 20356 strings out of 480608
- 371616 string characters out of 5907536
- 622929 words of memory out of 5000000
- 35819 multiletter control sequences out of 15000+600000
- 638304 words of font info for 87 fonts, out of 8000000 for 9000
+ 20362 strings out of 480608
+ 371774 string characters out of 5907536
+ 625929 words of memory out of 5000000
+ 35822 multiletter control sequences out of 15000+600000
+ 639231 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,10n,74p,966b,1081s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_uy5hgr.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "f:/MUST/Study/Grade One/Calculus/Assignment/My/Final Report/Report.pdf" (8 pages, 329323 bytes).
+ 76i,10n,74p,975b,1081s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_uy5hgr.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on "f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.pdf" (9 pages, 343384 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
