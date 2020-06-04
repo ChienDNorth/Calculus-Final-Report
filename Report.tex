@@ -176,6 +176,41 @@
 \section{Indeterminate Forms and L’Hôpital’s Rule}
 \begin{quote}
 
+	\subsection{Indeterminate Form $0/0$}
+	\begin{quote}
+
+		\begin{quote}
+		\begin{theorem}
+			Suppose that $f(a) = g(a) = 0$, that f and g are diffrentiable on an open interval I containing a, and that $g'(x) \neq 0$ on I if $x \neq a$. Then
+			$$\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}$$
+			assuming that the limit on the right side of this equation exists.
+		\end{theorem}
+		\end{quote}
+
+		
+		\subsubsection{Using L’Hôpital’s Rule }
+		To find
+		$$\lim_{x \to a} \frac{f(x)}{g(x)}$$
+		by l’Hôpital’s Rule, we continue to differentiate ƒ and g, so long as we still get the form $0/0$ at x = a. But as soon as one or the other of these derivatives is different from zero at $x = a$ we stop differentiating. L’Hôpital’s Rule does not apply when either the numerator or denominator has a finite nonzero limit.
+		
+		\begin{info}
+			More advanced treatments of calculus prove that l’Hôpital’s Rule applies to the indeterminate form $\infty / \infty$, as well as to $0/0$.
+		\end{info}
+		
+	\end{quote}
+
+	\subsection{Indeterminate Powers}
+	\begin{quote}
+		Limits that lead to the indeterminate forms $1^\infty, 0^0$, and $\infty^0$ can sometimes be handled by first taking the logarithm of the function.
+
+		\begin{quote}
+			If$\lim_{{x \to a }} \ln f(x) = L$, then
+			$$\lim_{x \to a}f(x)= \lim_{x \to a} e ^{ln(f(x))} = e^L$$
+			Here a may be either finite or infinite.
+		\end{quote}
+
+	\end{quote}
+
 \end{quote}
 
 %----------------------------------------------------------------------------------------
@@ -184,6 +219,45 @@
 
 \section{Inverse Trigonometric Functions}
 \begin{quote}
+
+	\subsection{Deining the Inverse Trigonometric Functions}
+	\begin{quote}
+
+		The six basic trigonometric functions are not one-to-one (since their values repeat periodically). However, we can restrict their domains to intervals on which they are one-to-one. Since these restricted functions are now one-to-one, they have inverses, which we denote by
+		\begin{center}
+			$y = \sin^{-1} x$ or $y = \arcsin x$,    $y = \cos^{-1} x$ or $y = \arccos x$\\
+			$y = \tan^{-1} x$ or $y = \arctan x$,    $y = \cot^{-1} x$ or $y = \arccot x$\\
+			$y = \sec^{-1} x$ or $y = \arcsec x$,    $y = \csc^{-1} x$ or $y = \arccsc x$
+		\end{center}
+
+	\end{quote}
+
+	\subsection{The Arcsine and Arccosine Functions}
+	\begin{quote}
+		We define the arcsine and arccosine as functions whose values are angles (measured in radians) that belong to restricted domains of the sine and cosine functions.
+
+		\begin{quote}
+		\begin{definition}
+			\mbox{}\par
+				$\mathbf{y=\arcsin x}$ is the number in $[-\pi /2, \pi/2]$ for which $\sin y = x$\\
+				$\mathbf{y=\arccos x}$ is the number in $[0,\pi]$for which $\cos y = x$
+
+		\end{definition}
+		\end{quote}
+
+	\end{quote}
+
+	\subsection{Identities Involving Arcsine and Arccosine	}
+	\begin{quote}
+
+		\begin{definition}
+			$y = \arctan x$ is the number in $(-\pi/2,\pi/2)$ for which $\tan y = x$
+			$y = \arccot x$ is the number in $(0,\pi)$ for which $\cot y = x$
+			$y = \arcsec x$ is the number in $[0, \pi/2] \cup (\pi / 2,t]$ for which $\sec y = x$
+			$y = \arccsc x$ is the number in $[-\pi/2,0) \cup (0,\pi/2]$ for which $\csc y = x$
+		\end{definition}
+		
+	\end{quote}
 
 \end{quote}
 
