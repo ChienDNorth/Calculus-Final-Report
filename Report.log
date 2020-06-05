@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.18)  4 JUN 2020 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.18)  5 JUN 2020 15:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -963,53 +963,54 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )
 \c@theorem=\count306
 \c@definition=\count307
-LaTeX Font Info:    Trying to load font information for T1+XCharter-TLF on input line 45.
+\c@case=\count308
+LaTeX Font Info:    Trying to load font information for T1+XCharter-TLF on input line 46.
  (d:/texlive/2020/texmf-dist/tex/latex/xcharter/T1XCharter-TLF.fd
 File: T1XCharter-TLF.fd 2017/06/25 (autoinst) Font definitions for T1/XCharter-TLF.
 )
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 45.
+(Font)              scaled to size 10.0pt on input line 46.
  (f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux)
 \openout1 = `Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 45.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 46.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 46.
  (d:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 45.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 45.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 46.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 46.
  (d:/texlive/2020/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    ... okay on input line 46.
  (d:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count308
+\scratchcounter=\count309
 \scratchdimen=\dimen278
 \scratchbox=\box74
-\nofMPsegments=\count309
-\nofMParguments=\count310
+\nofMPsegments=\count310
+\nofMParguments=\count311
 \everyMPshowfont=\toks58
-\MPscratchCnt=\count311
+\MPscratchCnt=\count312
 \MPscratchDim=\dimen279
-\MPnumerator=\count312
-\makeMPintoPDFobject=\count313
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
 \everyMPtoPDFconversion=\toks59
 ) (d:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1019,7 +1020,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box75
  ABD: EveryShipout initializing macros
-\c@lstlisting=\count314
+\c@lstlisting=\count315
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1055,23 +1056,23 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count315
-\c@mv@boldtabular=\count316
+\c@mv@tabular=\count316
+\c@mv@boldtabular=\count317
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 46.
+(Font)              scaled to size 17.28pt on input line 47.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 46.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+(Font)              scaled to size 12.0pt on input line 47.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
 (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
  (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 46.
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 47.
  (d:/texlive/2020/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 46.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 47.
  (d:/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
@@ -1079,147 +1080,152 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 {d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Chapter 7.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 52.
+(Font)              scaled to size 20.74pt on input line 53.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 52.
+(Font)              scaled to size 20.74pt on input line 53.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 52.
+(Font)              scaled to size 24.88pt on input line 53.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 52.
+(Font)              scaled to size 24.88pt on input line 53.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 53.
+(Font)              scaled to size 14.4pt on input line 54.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 53.
+(Font)              scaled to size 14.4pt on input line 54.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 58.
+(Font)              scaled to size 12.0pt on input line 59.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 64.
+(Font)              scaled to size 10.0pt on input line 65.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 66.
+(textcomp)             Default family used instead on input line 67.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 80.
+(Font)              scaled to size 10.0pt on input line 81.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 82.
+(textcomp)             Default family used instead on input line 83.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 94.
+(textcomp)             Default family used instead on input line 95.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 94.
+(textcomp)             Default family used instead on input line 95.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 95.
+(Font)              scaled to size 7.0pt on input line 96.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 95.
+(Font)              scaled to size 7.0pt on input line 96.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 99.
+(textcomp)             Default family used instead on input line 100.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 113.
+(textcomp)             Default family used instead on input line 114.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 113.
+(textcomp)             Default family used instead on input line 114.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 113.
+(textcomp)             Default family used instead on input line 114.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 113.
+(textcomp)             Default family used instead on input line 114.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 113.
+(textcomp)             Default family used instead on input line 114.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 119.
+(textcomp)             Default family used instead on input line 120.
 [1
 
 ]
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 194.
- [2] [3]
+(textcomp)             Default family used instead on input line 195.
+ [2] [3] [4]
 Chapter 8.
-[4
-
-]
-Chapter 10.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
-(Font)              scaled to size 10.0pt on input line 371.
+(Font)              scaled to size 10.0pt on input line 344.
 [5
 
 ]
-Overfull \hbox (2.67537pt too wide) in paragraph at lines 462--462
-[]
+Overfull \hbox (13.24767pt too wide) in paragraph at lines 381--390
+\T1/XCharter-TLF/m/n/10 These sub-sti-tu-tions are ef-fec-tive in trans-form-ing in-te-grals in-volv-ing $[]$ ,$[]$, $[]$
  []
 
 [6]
+Chapter 10.
+[7
+
+]
+Overfull \hbox (2.67537pt too wide) in paragraph at lines 565--565
+[]
+ []
+
+[8]
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 538.
+(textcomp)             Default family used instead on input line 641.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 549.
+(textcomp)             Default family used instead on input line 652.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 549.
- [7] [8]
+(textcomp)             Default family used instead on input line 652.
+ [9] [10]
 Chapter 11.
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 572.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 675.
 
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 572.
+(textcomp)             Default family used instead on input line 675.
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 572.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 675.
 
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 572.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 675.
 
 Missing character: There is no Œ in font cmr10!
 
 LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
-(Font)              using `U/stmry/m/n' instead on input line 600.
+(Font)              using `U/stmry/m/n' instead on input line 703.
 
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 602.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 705.
 
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 602.
+(textcomp)             Default family used instead on input line 705.
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 602.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 705.
 
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 602.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 705.
 
 Missing character: There is no Œ in font cmr10!
-[9
+[11
 
 ]
 \tf@thm=\write4
 \openout4 = `Report.thm'.
 
- [10] (f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux)
+ [12] (f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20379 strings out of 480608
- 371979 string characters out of 5907536
- 625976 words of memory out of 5000000
- 35833 multiletter control sequences out of 15000+600000
- 641061 words of font info for 96 fonts, out of 8000000 for 9000
+ 20403 strings out of 480608
+ 372227 string characters out of 5907536
+ 626255 words of memory out of 5000000
+ 35854 multiletter control sequences out of 15000+600000
+ 641989 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,10n,74p,975b,1081s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 76i,12n,74p,975b,1081s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_uy5hgr.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.pdf" (11 pages, 380855 bytes).
+Output written on "f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.pdf" (13 pages, 390836 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 142 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -41,6 +41,7 @@
 
 \newtheorem{theorem}{THEOREM}
 \newtheorem*{definition}{DEFINITION}
+\newtheorem{case}{Case}
 
 \begin{document}
 \maketitle % Print the title
@@ -256,7 +257,27 @@
 			$y = \arcsec x$ is the number in $[0, \pi/2] \cup (\pi / 2,t]$ for which $\sec y = x$
 			$y = \arccsc x$ is the number in $[-\pi/2,0) \cup (0,\pi/2]$ for which $\csc y = x$
 		\end{definition}
-		
+
+	\end{quote}
+
+	\subsection{The Derivative of the Inverse Trigonometric Functions}
+	\begin{quote}
+
+		\subsubsection{The Derivative of y = arcsin u}
+		\begin{center}
+			$\frac{d}{dx}(\arcsin u)= \frac{1}{\sqrt{1-u^2}} \frac{du}{dx}\qquad \left | u \right |<1$
+		\end{center}
+
+		\subsubsection{The Derivative of y = arctan u }
+			$$\frac{d}{dx}(\arctan u) = \frac{1}{1+u^2} \frac{du}{dx}$$
+
+		\subsubsection{Inverse Function–Inverse Cofunction Identities}
+		\begin{quote}
+			$$\arccos x = \pi/2 - \arcsin x$$
+			$$\arccot x = \pi/2 - \arctan x$$
+			$$\arccsc x = \pi/2 - \arcsec x$$
+		\end{quote}
+	
 	\end{quote}
 
 \end{quote}
@@ -275,6 +296,32 @@
 \section{Integration by Parts}
 \begin{quote}
 
+	\subsection{Product Rule in Integral Form}
+	\begin{quote}
+		The \textbf{Product Rule} leading to these two formula.
+
+		\begin{quote}
+			\subsubsection{Integration by Parts Formula}
+			$$\int u(x)\, v'(x) \,dx =u(x)\,v(x)-\int v(x)\,u'(x)\,dx$$
+
+			\subsubsection{Integration by Parts Formula — Diferential Version}
+			$$\int u\,{dv} = uv - \int v\,{du}$$
+
+		\end{quote}
+
+	\end{quote}
+
+	\subsection{Evaluating Definite Integrals by Parts	}
+	\begin{quote}
+
+		The Fundamental Theorem gives 
+		
+		\begin{quote}
+		\subsubsection{Integration by Parts Formula for Deﬁnite Integrals }
+		$$\int_{a}{b}u(x)\,v'(x)\,dx = u(x)\,v(x) \bigg |_{a}^{b} - \int_{a}^{b}v(x)\, u'(x)\, dx $$
+		\end{quote}
+
+	\end{quote}
 \end{quote}
 
 %----------------------------------------------------------------------------------------
@@ -284,6 +331,44 @@
 \section{Trigonometric Integrals}
 \begin{quote}
 
+	\subsection{Products of Powers of Sines and Cosines}
+	\begin{quote}
+
+		We begin with integrals of the form 
+		$$\int sin^m x\,cos^n x\, dx$$
+		where m and n are nonnegative integers (positive or zero). We can divide the appropriate substitution into three cases according to m and n being odd or even.
+
+		\begin{quote}
+
+			\begin{case}
+				If \textbf{m is odd}, we write m as 2k + 1 and use the identity $sin^2x = 1 - cos^2x$ to obtain 
+				$$\sin^m x= \sin^{2k+1}x = (\sin^2x)^k \sin x = (1-\cos^2x)^k \sin x$$
+				Then we combine the single $\sin x$ with dx in the integral and set $\sin x \,dx$ equal to $-d(\cos x)$.
+			\end{case}
+
+			\begin{case}
+				If \textbf{n is odd} in $\int \sin^m x \cos^n x\, dx$, we write n as $2k + 1$ and use the i dentity $\cos^2x = 1 - \sin^2 x$ to obtain
+				$$cos^nx=cos^{2k+1}x=(\cos^2x)^k \cos x =(1-\sin^2x)^k \cos x$$
+				We then combine the single $\cos x$ with $dx$ and set $\cos x \, dx$ equal to $d(\sin x)$.
+			\end{case}
+
+			\begin{case}
+				If \textbf{both m and n are even} in $\int \sin^m x \cos ^n x \, dx$,we substitute
+				$$\sin^2x=\frac{1-\cos 2x}{2},\qquad \cos^2x = \frac{1+\cos 2x}{2}$$
+				to reduce the integrand to one in lower powers of $\cos 2x$
+			\end{case}
+
+		\end{quote}
+
+	\end{quote}
+
+	\subsection{Integrals of Powers of $\tan x$ and $\sec x$}
+	\begin{quote}
+
+		We know how to integrate the tangent and secant functions and their squares. To integrate higher powers, we use the identities $\tan^2x = \sec^2 x - 1$ and $\sec^2 x = \tan^2 x + 1$, and integrate by parts when necessary to reduce the higher powers to lower powers.
+		
+	\end{quote}
+
 \end{quote}
 
 %----------------------------------------------------------------------------------------
@@ -292,6 +377,24 @@
 
 \section{Trigonometric Substitutions}
 \begin{quote}
+
+	Trigonometric substitutions occur when we replace the variable of integration by a trigonometric function. The most common substitutions are $x = a \tan u$, $x = a \sin u$, and $x = a \sec u$. These substitutions are effective in transforming integrals involving $\sqrt{a^2+x^2}$ ,$\sqrt{a^2-x^2}$, $\sqrt{x^2-a^2}$ into integrals we can evaluate directly.
+	\begin{table}[h]
+		\centering
+		\begin{tabular}{|c|c|c|c|}
+		\hline
+		Substitutions & $x=a\tan \Theta$                                 & $x = a\sin \Theta$                             & $x = a \sec \Theta$                            \\ \hline
+		Fit Forms     & $\sqrt{a^2+x^2} = a\left | \sec \Theta \right |$ & $\sqrt{a^2-x^2}=a\left | \cos \Theta \right |$ & $\sqrt{x^2-a^2}=a\left | \tan \Theta \right |$ \\ \hline
+		\end{tabular}
+	\end{table}
+
+	\subsubsection{Procedure for a Trigonometric Substitution}
+	\begin{enumerate}
+		\item Write down the substitution for x, calculate the differential dx, and specify the selected values of u for the substitution.
+		\item Substitute the trigonometric expression and the calculated diferential into the integrand, and then simplify the results algebraically.
+		\item Integrate the trigonometric integral, keeping in mind the restrictions on the $\Theta$ for reversibility.
+		\item Draw an appropriate reference triangle to reverse the substitution in the integration result and convert it back to the original variable x.
+	\end{enumerate}
 
 \end{quote}
 

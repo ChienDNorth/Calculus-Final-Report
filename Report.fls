@@ -332,6 +332,9 @@ INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/xcharter/XCharter-BoldItalic-tlf-t1.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/public/xcharter/XCharter-BoldItalic-tlf-t1.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/xcharter/XCharter-BoldItalic-tlf-t1--base.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
