@@ -405,6 +405,28 @@
 \section{Integration of Rational Functions by Partial Fractions}
 \begin{quote}
 
+	The method for rewriting rational functions as a sum of simpler fractions is called the method of partial fractions.
+
+	\subsection{General Description of the Method}
+	\begin{quote}
+
+		Success in writing a rational function ƒ(x)>g(x) as a sum of partial fractions depends on two things:
+
+		\begin{itemize}
+			\item The degree of ƒ(x) must be less than the degree of g(x). That is, the fraction must be proper. If it isn’t, divide ƒ(x) by g(x) and work with the remainder term. Example 3 of this section illustrates such a case.
+			\item We must know the factors of g(x). In theory, any polynomial with real coeicients can be written as a product of real linear factors and real quadratic factors. In practice, the factors may be hard to find.
+		\end{itemize}
+		
+		\subsubsection{Method of Partial Fractions When ƒ(x),g(x) Is Proper}
+		\begin{enumerate}
+			\item Let $x-r$ be a linear factor of g(x). Suppose that $(x-r)^m$ is the highest power of $x - r$ that divides g(x). Then, to this factor, assign the sum of the m partial fractions: $$\frac{A_1}{(x-r)}+\frac{A_2}{(x-r)^2}+\cdots+\frac{A_m}{(x-r)^m}$$ Do this for each distinct linear factor of g(x).
+			\item Let $x^2 + px + q$ be an irreducible quadratic factor of g(x) so that $x^2 + px + q$ has no real roots. Suppose that $(x^2 + px + q)^n$ is the highest power of this factor that divides g(x). Then, to this factor, assign the sum of the n partial fractions: $$\frac{B_1x + C_1}{(x^2+px+q)}+\frac{B_2x+C_2}{(x^2+px+q)^2}+\cdots+\frac{B_nx+C_n}{(x^2+px+q)^n}.$$ Do this for each distinct quadratic factor of g(x).
+			\item Set the original fraction $f(x)/g(x)$ equal to the sum of all these partial fractions. Clear the resulting equation of fractions and arrange the terms in decreasing powers of x.
+			\item Equate the coefficients of corresponding powers of x and solve the resulting equations for the undetermined coefficients.
+		\end{enumerate}
+	
+	\end{quote}
+
 \end{quote}
 
 %----------------------------------------------------------------------------------------
@@ -414,6 +436,71 @@
 \setcounter{section}{7}
 \section{Integration of Rational Functions by Partial Fractions}
 \begin{quote}
+
+	\subsection{Infinite Limits of Integration}
+	\begin{quote}
+
+		\begin{definition}
+
+			Integrals with infinite limits of integration are \textbf{improper integrals of Type I}.
+			
+			\begin{enumerate}
+				\item If f(x) is continuous on $\left [ a,\infty \right )$, then $$\int_{a}^{\infty}f(x)\,dx = \lim_{b \to \infty} \int_{a}^{b}f(x)\,dx.$$
+				\item If f(x) is continuous on $\left( -\infty, b\right ]$, then $$\int_{-\infty}^{b} f(x)\, dx = \lim_{a \to -\infty}\int_{a}^{b}f(x)\,dx.$$
+				\item If f(x) is continuous on $\left(-\infty, \infty \right )$, then $$\int_{-\infty}{\infty}f(x)\, dx = \int_{-\infty}^{c}f(x)\,dx+\int_{c}^{\infty}f(x)dx.$$ where c is any real number.
+			\end{enumerate}
+
+			In each case, if the limit exists and is finite, we say that the improper integral \textbf{converges} and that the limit is the \textbf{value} of the improper integral. If the limit fails to exist, the improper integral \textbf{diverges}.
+
+		\end{definition}
+
+	\end{quote}
+
+	\subsection{The Integral $\int_{1}^{\infty}\frac{dx}{x^p}$}
+	\begin{quote}
+
+		The function $y = 1/x$ is the boundary between the convergent and divergent improper integrals with integrands of the form $y = 1/x^p$. As the following question shows, the improper integral \textbf{converges if} $\mathbf{p > 1}$ \textbf{and diverges if} $\mathbf{p \leqslant 1}$.
+
+		%Here need a question
+		
+	\end{quote}
+
+	\subsection{Integrands with Vertical Asymptotes}
+	\begin{quote}
+		
+		\begin{definition}
+			Integrals of functions that become infinite at a point within the interval f integration are \textbf{improper integrals of Type II}.
+			\begin{enumerate}
+				\item If f(x) is continuous on $\left (a,b\right ]$and discontinuous at a, then $$\int_{a}^{b}f(x)\,dx = \lim_{c\to a^+} \int_{c}^{b}f(x)\,dx$$
+				\item If f(x) is continuous on $\left [a,b\right )$and discontinuous at b, then $$\int_{a}^{b}f(x)\,dx = \lim_{c \to b^-} \int_{a}^{c}f(x)\,dx$$
+				\item If f(x) is discontinuous at c, where $a<c<b$,and continuous on $\left [a,c\right ) \cup \left(c,b\right ]$, then $$\int_{a}^{b}f(x)\,dx = \int_{a}^{c}f(x)\,dx + \int_{c}^{b}f(x)\,dx$$
+			\end{enumerate}
+		\end{definition}
+
+	\end{quote}
+
+	\subsection{Test for Convergence and Divergence}
+	\begin{quote}
+		When we cannot evaluate an improper integral directly, we try to determine whether it converges or diverges. If the integral diverges, that’s the end of the story. If it converges, we can use numerical methods to approximate its value. 
+		\begin{quote}
+			\begin{theorem}[Direct Comparison Test]
+				Let f and g be continuous on $\left [ a,\infty \right )$ with $0\leq f(x)\leq g(x)$ for all$x\geq a$.Then
+				\begin{enumerate}
+					\item If $\int_{a}^{\infty} g(x)\, dx$converges, then $\int_{a}^{\infty}f(x)\,dx$ also vonverges.
+					\item If $\int_{a}^{\infty} f(x)\, dx$diverges, then $\int_{a}^{\infty}g(x)\,dx$ also diverges.
+				\end{enumerate}
+			\end{theorem}
+
+			\begin{theorem}
+				If the positive functions f and g are continuous on $\left [a,\infty \right ]$, and If
+				$$\lim_{x\to \infty}\frac{f(x)}{g(x)} = L, \qquad 0<L<\infty$$
+				then
+				$$\int_{a}^{\infty}f(x)\,dx\qquad and\qquad \int_{a}^{\infty}g(x)\,dx$$
+				either both converge or both diverge.
+			\end{theorem}
+			
+		\end{quote}
+	\end{quote}
 
 \end{quote}
 
