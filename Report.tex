@@ -498,7 +498,7 @@
 				$$\int_{a}^{\infty}f(x)\,dx\qquad and\qquad \int_{a}^{\infty}g(x)\,dx$$
 				either both converge or both diverge.
 			\end{theorem}
-			
+
 		\end{quote}
 	\end{quote}
 
@@ -517,6 +517,96 @@
 
 \section{Sequences}
 \begin{quote}
+
+	\subsection{What is Sequences}
+	\begin{quote}
+		A sequence is a list of numbers in a given order.
+	\end{quote}
+
+	\subsection{Convergence and Divergence}
+	\begin{quote}
+
+		\begin{definition}
+			The sequence $\left \{ an \right \}$ \textbf{converges} to the number L if for every positive number e there corresponds an integer N such that 
+			$$\left | a_n - L\right | < \varepsilon \qquad whenever\qquad n > N$$
+			If no such number L exists, we say that $\left \{ an \right \}$ \textbf{diverges}. 
+			If $\left \{ an \right \}$ converges to L, we write $\lim_{n \to \infty}$, or simply $a_n \to L$, and call L the limit of the sequence.
+		\end{definition}
+
+		\begin{definition}
+			The sequence $\left \{ an \right \}$ \textbf{diverges to infinity} if for every number M there is and integer N such that for all n larger than N, $a_n>M$. If this condition holds we write
+			$$\lim_{n \to \infty} a_n = \infty \qquad or\qquad a_n \to \infty$$
+			Similarly, if for every number m there is an integer N such that for all $n > N$ we have $a_n < m$, then we say $\left \{ an \right \}$ \textbf{diverges to negative infinity} and write 
+			$$lim_{n \to \infty}a_n = -\infty\qquad or \qquad a_n\to\infty$$
+		\end{definition}
+
+		\begin{quote}
+			\begin{theorem}[The Sandwich Theorem for Sequences]
+				\mbox{}\par
+				Let $\left \{ a_n \right \}$ $ \left\{ b_n \right \}$ and $ \left \{ c_n \right \}$ be sequences of real numbers. If an … bn … cn holds for all n beyond some index N, and if $\lim_{n\ to \infty} a_n = \lim_{n \to \infty} c_n = L$, then $\lim_{n \to \infty}b_n = L$also
+			\end{theorem}
+		\end{quote}
+
+
+		\begin{quote}
+			\begin{theorem}[The Continuous Function Theorem for Sequences]
+				Let $\left\{a_n\right\}$ be a sequence of real numbers If $a_n \to L$ and if f is a function that is continuous at L and defined at all $a_n$, then $f(a_n)\to f(L)$
+			\end{theorem}
+		\end{quote}
+
+	\end{quote}
+
+	\subsection{Using L’Hôpital’s Rule}
+	\begin{quote}
+
+		We can also use  L’Hôpital’s Rule to find the limits of some sequences.
+
+		\begin{quote}
+
+			\begin{theorem}
+				Suppose that f(x) is a function defined for al $x \geq n_0$ and that $\left\{a_n\right\}$ is a sequence of real numbers such that $a_n = f(x) $ for $n\geq n_0$. Then
+				$$\lim_{n \to \infty a_n = L}\qquad whenever \qquad \lim_{x\to\infty} f(x) = L$$
+			\end{theorem}
+		
+		\end{quote}
+
+	\end{quote}
+
+	\subsection{Commonly Occurring Limits}
+	\begin{quote}
+
+		The next theorem gives some limits that arise frequently.
+
+		\begin{quote}
+		\begin{theorem}
+			\begin{enumerate}
+				\item $\lim_{n \to \infty } \frac{\ln n}{n} = 0$
+				\item $\lim_{n \to \infty }  \sqrt[n]{n} = 1$
+				\item $\lim_{n \to \infty } x^{1/n}=1\qquad (x>0)$ 
+				\item $\lim_{n \to \infty }  x^n = 0\qquad(\left | x \right | < 1)$
+				\item $\lim_{n \to \infty } (1 + \frac{x}{n})^n = e^x\qquad (any\, x)$
+				\item $\lim_{n \to \infty } \frac{x^n}{n!} = 0 \qquad (any\, x)$
+			\end{enumerate}
+		\end{theorem}
+		\end{quote}
+
+	\end{quote}
+
+	\subsection{Bounded Monotonic Sequences}
+	\begin{quote}
+
+		\begin{definition}
+			A sequence $\{an\}$ is \textbf{nondecreasing} if $a_n \leq a_{n+1}$ for all n. That is, $a_1 \leq a_2 \leq a_3 \leq \cdots$ The sequence is \textbf{nonincreasing} if $a_n \geq a_{n+1}$ for all n. The sequence $\{an\}$ is \textbf{monotonic} if it is either nondecreasing or nonincreasing.
+		\end{definition}
+
+		
+		\begin{theorem}[The Monotonic Sequence Theorem]
+			\mbox{}\par
+			If a sequence $\{an\}$ is both bounded and monotonic, then the sequence converges. 
+		\end{theorem}
+		
+	
+	\end{quote}
 
 \end{quote}
 

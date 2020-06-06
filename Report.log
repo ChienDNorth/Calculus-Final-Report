@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.18)  6 JUN 2020 17:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.18)  6 JUN 2020 18:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1172,79 +1172,84 @@ Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             Default family used instead on input line 420.
  [7] [8]
 Chapter 10.
+
+Overfull \hbox (13.18765pt too wide) in paragraph at lines 553--554
+[]\T1/XCharter-TLF/m/it/10 Let $[]$
+ []
+
 [9
 
-]
-Overfull \hbox (8.48537pt too wide) in paragraph at lines 652--652
+] [10]
+Overfull \hbox (8.48537pt too wide) in paragraph at lines 742--742
 []
  []
 
-[10]
+[11]
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 728.
+(textcomp)             Default family used instead on input line 818.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 739.
+(textcomp)             Default family used instead on input line 829.
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 739.
- [11] [12]
+(textcomp)             Default family used instead on input line 829.
+ [12] [13]
 Chapter 11.
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 762.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 852.
 
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 762.
+(textcomp)             Default family used instead on input line 852.
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 762.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 852.
 
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 762.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 852.
 
 Missing character: There is no Œ in font cmr10!
 
 LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
-(Font)              using `U/stmry/m/n' instead on input line 790.
+(Font)              using `U/stmry/m/n' instead on input line 880.
 
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 792.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 882.
 
 Package textcomp Info: Symbol \textflorin not provided by
 (textcomp)             font family XCharter-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 792.
+(textcomp)             Default family used instead on input line 882.
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 792.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 882.
 
 
-LaTeX Warning: Command \textflorin invalid in math mode on input line 792.
+LaTeX Warning: Command \textflorin invalid in math mode on input line 882.
 
 Missing character: There is no Œ in font cmr10!
-[13
+[14
 
 ]
 \tf@thm=\write4
 \openout4 = `Report.thm'.
 
- [14] (f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux)
+ [15] (f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20433 strings out of 480608
- 372952 string characters out of 5907536
+ 20434 strings out of 480608
+ 372967 string characters out of 5907536
  626255 words of memory out of 5000000
- 35876 multiletter control sequences out of 15000+600000
+ 35877 multiletter control sequences out of 15000+600000
  643778 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,12n,74p,975b,1081s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_q7u3cc.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_uy5hgr.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrb1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.pdf" (15 pages, 445826 bytes).
+Output written on "f:/MUST/Study/Grade One/Calculus/Assignment/My/Calculus-Final-Report/Report.pdf" (16 pages, 452354 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
+ 178 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

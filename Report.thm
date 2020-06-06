@@ -11,16 +11,24 @@
 \contentsline {theorem}{{THEOREM}{3}{Direct Comparison Test}}{8}%
 \contentsline {theorem}{{THEOREM}{4}{}}{8}%
 \contentsline {definition}{{DEFINITION}{6}{}}{9}%
-\contentsline {theorem}{{THEOREM}{5}{}}{9}%
-\contentsline {theorem}{{THEOREM}{6}{}}{9}%
-\contentsline {theorem}{{THEOREM}{7}{}}{10}%
-\contentsline {theorem}{{THEOREM}{8}{The Alternating Series Test }}{10}%
-\contentsline {theorem}{{THEOREM}{9}{The Alternating Series Estimation Theorem}}{10}%
-\contentsline {definition}{{DEFINITION}{7}{}}{10}%
-\contentsline {theorem}{{THEOREM}{10}{The Rearrangement Theorem for Absolutely Convergent Series}}{10}%
-\contentsline {definition}{{DEFINITION}{8}{}}{11}%
-\contentsline {theorem}{{THEOREM}{11}{The Convergence Theorem for Power Series }}{11}%
-\contentsline {definition}{{DEFINITION}{9}{}}{11}%
-\contentsline {definition}{{DEFINITION}{10}{}}{12}%
-\contentsline {theorem}{{THEOREM}{12}{Parametric Formula for dy/dx}}{13}%
-\contentsline {theorem}{{THEOREM}{13}{Parametric Formula for $d^2y/dx^2$}}{13}%
+\contentsline {definition}{{DEFINITION}{7}{}}{9}%
+\contentsline {theorem}{{THEOREM}{5}{The Sandwich Theorem for Sequences}}{9}%
+\contentsline {theorem}{{THEOREM}{6}{The Continuous Function Theorem for Sequences}}{9}%
+\contentsline {theorem}{{THEOREM}{7}{}}{9}%
+\contentsline {theorem}{{THEOREM}{8}{}}{10}%
+\contentsline {definition}{{DEFINITION}{8}{}}{10}%
+\contentsline {theorem}{{THEOREM}{9}{The Monotonic Sequence Theorem}}{10}%
+\contentsline {definition}{{DEFINITION}{9}{}}{10}%
+\contentsline {theorem}{{THEOREM}{10}{}}{10}%
+\contentsline {theorem}{{THEOREM}{11}{}}{10}%
+\contentsline {theorem}{{THEOREM}{12}{}}{11}%
+\contentsline {theorem}{{THEOREM}{13}{The Alternating Series Test }}{11}%
+\contentsline {theorem}{{THEOREM}{14}{The Alternating Series Estimation Theorem}}{11}%
+\contentsline {definition}{{DEFINITION}{10}{}}{11}%
+\contentsline {theorem}{{THEOREM}{15}{The Rearrangement Theorem for Absolutely Convergent Series}}{11}%
+\contentsline {definition}{{DEFINITION}{11}{}}{12}%
+\contentsline {theorem}{{THEOREM}{16}{The Convergence Theorem for Power Series }}{12}%
+\contentsline {definition}{{DEFINITION}{12}{}}{12}%
+\contentsline {definition}{{DEFINITION}{13}{}}{13}%
+\contentsline {theorem}{{THEOREM}{17}{Parametric Formula for dy/dx}}{14}%
+\contentsline {theorem}{{THEOREM}{18}{Parametric Formula for $d^2y/dx^2$}}{14}%
