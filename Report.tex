@@ -599,13 +599,11 @@
 			A sequence $\{an\}$ is \textbf{nondecreasing} if $a_n \leq a_{n+1}$ for all n. That is, $a_1 \leq a_2 \leq a_3 \leq \cdots$ The sequence is \textbf{nonincreasing} if $a_n \geq a_{n+1}$ for all n. The sequence $\{an\}$ is \textbf{monotonic} if it is either nondecreasing or nonincreasing.
 		\end{definition}
 
-		
 		\begin{theorem}[The Monotonic Sequence Theorem]
 			\mbox{}\par
 			If a sequence $\{an\}$ is both bounded and monotonic, then the sequence converges. 
 		\end{theorem}
-		
-	
+			
 	\end{quote}
 
 \end{quote}
@@ -616,6 +614,43 @@
 
 \section{Infinite Series }
 \begin{quote}
+
+	\subsection{Geometric Series}
+	\begin{quote}
+
+		\textbf{Geometric series} are series of the form 
+		$$a + ar + ar^2 +\cdots + ar^{n - 1} + \cdots = \sum_{n = 1}^{\infty} a r^{n-1}$$
+
+		If $| r | < 1$, the geometric series $a + ar + ar^2 + \cdots + ar^{n-1} + \cdots$ converges to $a/(1-r)$:
+		$$\int_{n = 1}^{\infty} ar^{n-1} = \frac{a}{1-r}\qquad |r|<1$$
+		If $|r| \geq 1$, the series diverges.
+
+	\end{quote}
+
+	\subsection{The nth-Term Test for a Divergent Series}
+	\begin{quote}
+
+		\begin{theorem}
+			If $\sum_{n=1}^{\infty}a_n$converges, then $a_n\to 0$
+		\end{theorem}
+
+		\subsubsection{The nth-Term Test for Divergence}
+		$\sum_{n=1}^{\infty}a_n$diverges if $\lim_{n\to\infty}a_n$ fails to exist or is different from zero.
+
+	\end{quote}
+
+	\subsection{Combining Series}
+	\begin{quote}
+
+		These results is basic on Theorem.
+		
+		\begin{enumerate}
+			\item Every nonzero constant multiple of a divergent series diverges.
+			\item If$\sum a_n$converges and $\sum b_n$ diverges, then$\sum (a_n + b_n)$ and $\sum (a_n - b_n)$ both diverge.
+		\end{enumerate}
+
+	\end{quote}
+
 
 \end{quote}
 
