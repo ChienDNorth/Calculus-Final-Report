@@ -509,6 +509,7 @@
 %----------------------------------------------------------------------------------------
 
 \setcounter{chapter}{9}
+\setcounter{theorem}{1}
 \chapter{Infinite Sequences and Series }
 
 %----------------------------------------------------------------------------------------
@@ -641,6 +642,17 @@
 
 	\subsection{Combining Series}
 	\begin{quote}
+
+		\begin{quote}
+		\begin{theorem}
+			If $\sum a_n = A and \sum b_n = B are convergent series, then$
+			\begin{enumerate}
+				\item {\textit{Sum Rule:}}  \qquad \qquad \qquad \qquad \, $\sum(a_n + b_n) = \sum a_n + \sum b_n = A + B$
+				\item {\textit{Difference Rule:}} \qquad \qquad \; \; \; \, $\sum(a_n - b_n) = \sum a_n - \sum b_n = A - B$
+				\item {\textit{Constant Multiple Rule:}} \, \qquad   $\sum ka_n = k\sum a_n = kA$\qquad(any number k)
+			\end{enumerate}
+		\end{theorem}
+		\end{quote}
 
 		These results is basic on Theorem.
 
@@ -922,6 +934,7 @@
 
 %----------------------------------------------------------------------------------------
 %	11.1
+\setcounter{theorem}{0}
 %----------------------------------------------------------------------------------------
 
 \section{Parametrizations of Plane Curves }
@@ -1065,6 +1078,26 @@
 
 \section{Areas and Lengths in Polar Coordinates  }
 \begin{quote}
+
+	\subsection{Area in the Plane}
+	\begin{quote}
+
+		\textbf{Area of the Fan-Shaped Region Between the Origin and the Curve}$\mathbf{r = ƒ(\theta)}$ \textbf{when} $\mathbf{\alpha\leq\theta\leq\beta, r \geq 0}$\textbf{, and} $\mathbf{\beta-\alpha\leq 2\pi}$.
+		$$A = \int_{\alpha}^{\beta}\frac{1}{2}r^2 \,d\theta$$
+		This is the integral of the \textbf{area differential}
+		$$dA = \frac{1}{2}r^2\, d\theta = \frac{1}{2}\Big ( f\left (\theta \right )\Big )^2\, d\theta$$
+
+
+		\subsubsection{Area of the Region $0\leq r_1(\theta)\leq r\leq r_2(\theta),\alpha\leq\theta\leq\beta,$ and $\beta - \alpha \leq 2\pi$.}
+		$$A = \int_{\alpha}^{\beta}\frac{1}{2}{r_2}^2\,d\theta - \int_{\alpha}^{\beta}\frac{1}{2}{r_1}^2 \,d\theta = \int_{\alpha}^{\beta}\frac{1}{2}({r_2}^2-{r_1}^2)\, d\theta$$
+	\end{quote}
+
+	\subsection{Length of a Polar Curve}
+	\begin{quote}
+
+		If $r = f(\theta)$ has a continuous first derivative for $\alpha\leq\theta\leq\beta$and if the point $P(r,\theta)$ traces the curve $r = f(\theta)$ exactly once as $\theta$ runs from $\alpha$ to $\beta$
+
+	\end{quote}
 
 \end{quote}
 
